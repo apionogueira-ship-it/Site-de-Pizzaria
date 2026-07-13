@@ -1,0 +1,6 @@
+{
+  "name": "Cardápio Digital Pizzaria",
+  "description": "Menu digital mobile-first para pizzarias com carrinho de compras, customização de opcionais e envio de pedidos direto para o WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
